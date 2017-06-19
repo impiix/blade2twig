@@ -1,4 +1,7 @@
 <?php
+
+namespace Blade2Twig;
+
 /**
  * Date: 5/27/16
  * Time: 7:32 PM
